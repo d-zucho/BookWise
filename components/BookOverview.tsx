@@ -54,7 +54,9 @@ const BookOverview = ({
                 height={20}
                 alt='book'
               />
-              <span className='font-bebas-neue text-xl'>Borrow</span>
+              <span className='font-bebas-neue text-xl'>
+                Borrow Book Request
+              </span>
             </Button>
           </div>
         </div>
