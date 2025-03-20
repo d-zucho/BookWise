@@ -9,9 +9,9 @@ export default function Home() {
     <>
       <BookOverview {...sampleBooks[0]} />
       <BookList
-      // title="Latest Books"
-      // books={sampleBooks}
-      // containerClassName="mt-28"
+        title='Latest Books'
+        books={sampleBooks}
+        containerClassName='mt-28'
       />
     </>
   )
